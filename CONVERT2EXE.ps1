@@ -1,0 +1,1 @@
+ps2exe -inputFile .\GStoVPBX.ps1 -outputFile .\GStoVPBX.exe -iconFile .\gs2exe.ico -description "Grandstream Ext Output CSV to vPBX Input CSV" -version "1.1" -trademark "David E Joy" -company "David E Joy" -noConsole
