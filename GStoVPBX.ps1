@@ -18,7 +18,7 @@ $SelectedFile = Get-FileName -initialDirectory “c:fso”
 
 if ($SelectedFile -eq "") {
 # File location for the exported grandstream extensions (And get item for future code)
-#$locExportedGrandstreamExtensions = "C:\Temp\CodeStuff\GS_PBX_blnx_test_export_sip_extensions.csv"
+#$locExportedGrandstreamExtensions = ""
 #Write-Host "Cancelled"
 Exit
 } else {
